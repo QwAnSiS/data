@@ -13,5 +13,10 @@
       "data": {
         "token": "rBMPAOPkpS5ukdrKZs27m5kKALgg7hvf"
       }
+    },
+    "api" : {
+      "auth": {
+        "success": true
+      }
     }
 }
