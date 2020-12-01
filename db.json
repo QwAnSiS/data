@@ -1,5 +1,5 @@
 {
-  "api/auth/login": {
+  "login": {
       "success": true,
       "data": {
         "token": "rBMPAOPkpS5ukdrKZs27m5kKALgg7hvf",
