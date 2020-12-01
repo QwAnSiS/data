@@ -2,7 +2,7 @@
   "api/auth/login": {
       "success": true,
       "data": {
-        token: 'rBMPAOPkpS5ukdrKZs27m5kKALgg7hvf',
+        "token": "rBMPAOPkpS5ukdrKZs27m5kKALgg7hvf",
       },
     },
   "error": {
