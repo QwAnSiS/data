@@ -1,11 +1,11 @@
 {
-  "posts":
-    {
+  "login": {
       "success": true,
-      "id": 1,
-      "title": "hello"
+      "data": {
+        token: 'rBMPAOPkpS5ukdrKZs27m5kKALgg7hvf',
+      },
     },
-  "profile": {
-    "name": "typicode"
+  "error": {
+    "success": false,
   }
 }
